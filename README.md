@@ -8,7 +8,7 @@ Advanced AI developments have been transforming the biomedical field. The emerge
 ![image](contrastive.png)
 
 ## Data
-The dataset we used can be found at [here](https://gigadb.org/dataset/100200), and the scripts for downloading the dataset can be found at [here](https://github.com/gigascience/paper-bray2017/tree/master?tab=readme-ov-file). 
+The dataset we used can be found at [here](https://gigadb.org/dataset/100200), and the scripts for downloading the dataset can be found at [here](https://github.com/gigascience/paper-bray2017/tree/master?tab=readme-ov-file), along with the SMILES representation of molecules. 
 
 Metadata can be found at data\plates_metadata. Images are not provided. 
 
