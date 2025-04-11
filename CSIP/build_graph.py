@@ -10,7 +10,7 @@ import torch
 import torch.nn.functional as F
 import torch.distributed as dist
 import torchvision
-import torchvision.transforms as transforms
+import torchvision.transforms as transforms 
 from torch.utils.data import DataLoader, Dataset
 import PIL
 from PIL import Image
